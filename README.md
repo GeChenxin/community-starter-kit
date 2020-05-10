@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+This is community starter kit.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+1.learn github lab
 
 ## Getting started
 
