@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) [year] [JackGe]
+Copyright (c) [2020] [JackGe]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
